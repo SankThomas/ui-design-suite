@@ -152,7 +152,7 @@ export const projects: Project[] = [
       "An event presentation card designed to communicate essential event information at a glance. Its layout can accommodate an event title, date, location, and supporting details, making it a useful building block for event directories, community platforms, and scheduling interfaces.",
     githubRepo:
       "https://github.com/sankthomas/ui-design-components/tree/main/event-card",
-    youtubeVideo: "",
+    youtubeVideo: "https://www.youtube.com/watch?v=ozTfYWZFcR4",
     tech: ["React", "Vite", "TailwindCSS"],
   },
   {
@@ -163,7 +163,7 @@ export const projects: Project[] = [
       "A filter interface that groups related selection controls into a compact, organized panel. It demonstrates how filtering options can be presented in a clear visual hierarchy, helping users narrow down results and refine the content displayed in a product listing or data-driven application.",
     githubRepo:
       "https://github.com/sankthomas/ui-design-components/tree/main/filter-card",
-    youtubeVideo: "",
+    youtubeVideo: "https://www.youtube.com/watch?v=IeCdq6wQ3kM",
     tech: ["React", "Vite", "TailwindCSS"],
   },
   {
