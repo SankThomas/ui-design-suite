@@ -142,7 +142,7 @@ export const projects: Project[] = [
     githubRepo:
       "https://github.com/sankthomas/ui-design-components/tree/main/enter-password",
     youtubeVideo: "https://www.youtube.com/watch?v=pFNZjoWcQhA",
-    tech: ["React", "Vite", "TailwindCSS"],
+    tech: ["React", "Vite", "TailwindCSS", "TypeScript"],
   },
   {
     title: "Event Card",
@@ -153,7 +153,7 @@ export const projects: Project[] = [
     githubRepo:
       "https://github.com/sankthomas/ui-design-components/tree/main/event-card",
     youtubeVideo: "https://www.youtube.com/watch?v=ozTfYWZFcR4",
-    tech: ["React", "Vite", "TailwindCSS"],
+    tech: ["React", "Vite", "TailwindCSS", "TypeScript"],
   },
   {
     title: "Filter Card",
@@ -164,7 +164,7 @@ export const projects: Project[] = [
     githubRepo:
       "https://github.com/sankthomas/ui-design-components/tree/main/filter-card",
     youtubeVideo: "https://www.youtube.com/watch?v=IeCdq6wQ3kM",
-    tech: ["React", "Vite", "TailwindCSS"],
+    tech: ["React", "Vite", "TailwindCSS", "TypeScript"],
   },
   {
     title: "Inbox UI",
@@ -175,7 +175,7 @@ export const projects: Project[] = [
     githubRepo:
       "https://github.com/sankthomas/ui-design-components/tree/main/inbox-ui",
     youtubeVideo: "",
-    tech: ["React", "Vite", "TailwindCSS"],
+    tech: ["React", "Vite", "TailwindCSS", "TypeScript"],
   },
   {
     title: "Job Cards",
@@ -186,7 +186,7 @@ export const projects: Project[] = [
     githubRepo:
       "https://github.com/sankthomas/ui-design-components/tree/main/job-cards",
     youtubeVideo: "",
-    tech: ["React", "Vite", "TailwindCSS"],
+    tech: ["React", "Vite", "TailwindCSS", "TypeScript"],
   },
   {
     title: "Landing Page",
@@ -197,7 +197,7 @@ export const projects: Project[] = [
     githubRepo:
       "https://github.com/sankthomas/ui-design-components/tree/main/landing-page",
     youtubeVideo: "",
-    tech: ["React", "Vite", "TailwindCSS"],
+    tech: ["React", "Vite", "TailwindCSS", "TypeScript"],
   },
   {
     title: "Menu UI",
@@ -208,7 +208,7 @@ export const projects: Project[] = [
     githubRepo:
       "https://github.com/sankthomas/ui-design-components/tree/main/menu-ui",
     youtubeVideo: "",
-    tech: ["React", "Vite", "TailwindCSS"],
+    tech: ["React", "Vite", "TailwindCSS", "TypeScript"],
   },
   {
     title: "Notifications UI",
@@ -219,7 +219,7 @@ export const projects: Project[] = [
     githubRepo:
       "https://github.com/sankthomas/ui-design-components/tree/main/notifications-ui",
     youtubeVideo: "",
-    tech: ["React", "Vite", "TailwindCSS"],
+    tech: ["React", "Vite", "TailwindCSS", "TypeScript"],
   },
   {
     title: "Page Header",
@@ -230,7 +230,7 @@ export const projects: Project[] = [
     githubRepo:
       "https://github.com/sankthomas/ui-design-components/tree/main/page-header",
     youtubeVideo: "",
-    tech: ["React", "Vite", "TailwindCSS"],
+    tech: ["React", "Vite", "TailwindCSS", "TypeScript"],
   },
   {
     title: "Payment Method",
@@ -241,7 +241,7 @@ export const projects: Project[] = [
     githubRepo:
       "https://github.com/sankthomas/ui-design-components/tree/main/payment-method",
     youtubeVideo: "",
-    tech: ["React", "Vite", "TailwindCSS"],
+    tech: ["React", "Vite", "TailwindCSS", "TypeScript"],
   },
   {
     title: "People List",
@@ -252,7 +252,7 @@ export const projects: Project[] = [
     githubRepo:
       "https://github.com/sankthomas/ui-design-components/tree/main/people-list",
     youtubeVideo: "",
-    tech: ["React", "Vite", "TailwindCSS"],
+    tech: ["React", "Vite", "TailwindCSS", "TypeScript"],
   },
   {
     title: "Pricing Card",
@@ -263,7 +263,7 @@ export const projects: Project[] = [
     githubRepo:
       "https://github.com/sankthomas/ui-design-components/tree/main/pricing-card",
     youtubeVideo: "",
-    tech: ["React", "Vite", "TailwindCSS"],
+    tech: ["React", "Vite", "TailwindCSS", "TypeScript"],
   },
   {
     title: "Product Review Modal",
@@ -274,7 +274,7 @@ export const projects: Project[] = [
     githubRepo:
       "https://github.com/sankthomas/ui-design-components/tree/main/product-review-modal",
     youtubeVideo: "",
-    tech: ["React", "Vite", "TailwindCSS"],
+    tech: ["React", "Vite", "TailwindCSS", "JavaScript"],
   },
   {
     title: "Recipe Components",
@@ -285,7 +285,7 @@ export const projects: Project[] = [
     githubRepo:
       "https://github.com/sankthomas/ui-design-components/tree/main/recipe-components",
     youtubeVideo: "",
-    tech: ["React", "Vite", "TailwindCSS"],
+    tech: ["React", "Vite", "TailwindCSS", "JavaScript"],
   },
   {
     title: "Users List",
@@ -296,6 +296,6 @@ export const projects: Project[] = [
     githubRepo:
       "https://github.com/sankthomas/ui-design-components/tree/main/users-list",
     youtubeVideo: "",
-    tech: ["React", "Vite", "TailwindCSS"],
+    tech: ["React", "Vite", "TailwindCSS", "TypeScript"],
   },
 ];
